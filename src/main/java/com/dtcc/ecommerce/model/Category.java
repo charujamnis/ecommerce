@@ -1,5 +1,5 @@
 package com.dtcc.ecommerce.model;
-
+//Category Entity class.
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
